@@ -11,11 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1_Homework_MaskeTakip", "Day1_Homework_MaskeTakip", "{CA358994-2150-4C5D-ADB0-A5F395FE7995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Homeworks\Day1_Homework_MaskeTakip\Entities\Entities.csproj", "{453480CF-DD56-4DD4-8940-405B18160A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Homeworks\Day1_Homework_MaskeTakip\Entities\Entities.csproj", "{453480CF-DD56-4DD4-8940-405B18160A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Homeworks\Day1_Homework_MaskeTakip\Business\Business.csproj", "{85082AE7-D921-43FD-9EDB-8DE02DBC2823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Homeworks\Day1_Homework_MaskeTakip\Business\Business.csproj", "{85082AE7-D921-43FD-9EDB-8DE02DBC2823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Homeworks\Day1_Homework_MaskeTakip\Program\Program.csproj", "{96A4B3FB-95A7-447C-8CA1-47244478571E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "Homeworks\Day1_Homework_MaskeTakip\Program\Program.csproj", "{96A4B3FB-95A7-447C-8CA1-47244478571E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2_11_02_2024", "Day2_11_02_2024", "{B19FB01C-022C-4471-B4A6-DC9DCC99D838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2", "Day2_11_02_2024\Day_2\Day_2.csproj", "{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{96A4B3FB-95A7-447C-8CA1-47244478571E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A4B3FB-95A7-447C-8CA1-47244478571E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A4B3FB-95A7-447C-8CA1-47244478571E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +57,7 @@ Global
 		{453480CF-DD56-4DD4-8940-405B18160A0A} = {CA358994-2150-4C5D-ADB0-A5F395FE7995}
 		{85082AE7-D921-43FD-9EDB-8DE02DBC2823} = {CA358994-2150-4C5D-ADB0-A5F395FE7995}
 		{96A4B3FB-95A7-447C-8CA1-47244478571E} = {CA358994-2150-4C5D-ADB0-A5F395FE7995}
+		{BEC192C0-8694-4A50-9DA1-CCD1FA2C9A9D} = {B19FB01C-022C-4471-B4A6-DC9DCC99D838}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {83BD6FE0-1EA3-46E7-A369-1BA640B6E66E}
