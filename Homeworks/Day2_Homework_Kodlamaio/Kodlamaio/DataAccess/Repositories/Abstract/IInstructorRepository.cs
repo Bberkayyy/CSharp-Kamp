@@ -1,0 +1,13 @@
+﻿using Core.Repository.Repositories;
+using Entities.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataAccess.Repositories.Abstract;
+
+public interface IInstructorRepository : IRepository<Instructor, Guid>
+{
+}
